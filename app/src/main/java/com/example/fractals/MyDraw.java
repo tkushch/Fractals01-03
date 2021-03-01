@@ -20,7 +20,7 @@ public class MyDraw extends View {
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
-        f(10, 100, canvas);
+        f(250, 10, canvas);
 
     }
     protected void f(int d, int level, Canvas canvas){

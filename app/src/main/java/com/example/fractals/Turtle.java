@@ -6,7 +6,7 @@ import android.graphics.Paint;
 
 public class Turtle {
 
-    private float x = 500, y = 500;
+    private float x = 100, y = 100;
     private boolean tail = true;
     private Paint paint = new Paint();
     private float angle;
